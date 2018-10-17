@@ -4,15 +4,16 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.12"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "uecbit.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
