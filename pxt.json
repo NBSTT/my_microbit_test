@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.12"
+        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.12",
+        "my_microbit_test": "workspace:8945f638-0b1a-43f0-08cf-0289f4dc44f9"
     },
     "files": [
         "README.md",
@@ -15,5 +16,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "installedVersion": "workspace:8945f638-0b1a-43f0-08cf-0289f4dc44f9"
 }
